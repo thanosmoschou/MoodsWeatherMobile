@@ -3,10 +3,10 @@ Did you know that weather has its own mood? <br>
 Enter your city to find it!! <br>
 
 ### Screenshots
-![Initial Screen](screenshots/introScreen.png) <br>
-![After Search Screen](screenshots/resultSun.png) <br>
-![After Search Screen](screenshots/resultClouds.png) <br>
-![After Search Screen](screenshots/resultRain.png) <br>
+<img src="screenshots/introScreen.png" height=200 width=100> <br>
+<img src="screenshots/resultSun.png" height=200 width=100> <br>
+<img src="screenshots/resultClouds.png" height=200 width=100> <br>
+<img src="screenshots/resultRain.png" height=200 width=100> <br>
 
 
 ### How it works
