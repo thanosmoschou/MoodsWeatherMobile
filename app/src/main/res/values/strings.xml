@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MoodsWeatherMobile</string>
+    <string name="titleStart">moods weather</string>
+    <string name="enterCity">Enter your city</string>
+    <string name="sun">Sun</string>
+    <string name="rain">Rain</string>
+    <string name="clouds">Clouds</string>
+    <string name="snow">Snow</string>
+    <string name="today">Today</string>
+    <string name="minTemp">min temp</string>
+    <string name="maxTemp">max temp</string>
+    <string name="uvIndex">uv-index</string>
+    <string name="unknownWeatherData">Unknown Data</string>
+    <string name="author">© by thanosmoschou, 2024</string>
+</resources>
